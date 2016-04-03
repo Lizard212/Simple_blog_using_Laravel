@@ -1,0 +1,14 @@
+#footer{
+	margin-top: 50px;
+	text-align: center;
+	
+	
+	padding-bottom: 35px;
+}
+
+
+
+#footer .col-sm-6{
+	border-top: solid 1px #cdcdcd;
+	padding-top: 35px;
+}
